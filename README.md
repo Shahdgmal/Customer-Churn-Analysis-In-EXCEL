@@ -4,10 +4,10 @@
 - The objective of this project is to analyze customer behavior and identify key factors contributing to customer churn in a telecommunications company.
   
 ## DataSet  
-- <a href="">DataSet</a>
+- <a href="https://github.com/Shahdgmal/Customer-Churn-Analysis-In-EXCEL/blob/main/Customer%20Churn-Dataset.xlsx">DataSet</a>
 
 ## DashBoard
-- <a href="">DynamicDashBoard</a>
+- <a href="https://github.com/Shahdgmal/Customer-Churn-Analysis-In-EXCEL/blob/main/New%20Microsoft%20Excel%20Worksheet.xlsx">DynamicDashBoard</a>
 
 ## KPIS:
 
